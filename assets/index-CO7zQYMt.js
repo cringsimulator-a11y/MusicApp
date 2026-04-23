@@ -349,6 +349,6 @@ body{background:var(--bg);color:var(--text);font-family:var(--font);overflow:hid
 .empty{display:flex;flex-direction:column;align-items:center;padding:60px 24px;text-align:center;}
 .empty-icon{font-size:48px;margin-bottom:16px;opacity:0.4;}
 .empty-title{font-size:17px;font-weight:600;margin-bottom:6px;}
-.empty-sub{font-size:13px;color:var(--dim);line-height:1.5;}
+.emptsongs.py src/App.jsxy-sub{font-size:13px;color:var(--dim);line-height:1.5;}
 .back-btn{background:none;color:var(--dim);cursor:pointer;font-size:20px;padding:6px;position:absolute;top:12px;left:12px;z-index:5;}
 `;(0,C.createRoot)(document.getElementById(`root`)).render((0,T.jsx)(S.StrictMode,{children:(0,T.jsx)(_t,{})}));
